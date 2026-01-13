@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Core Logistics & Synthesis Hub",
+  "description": "A high-fidelity automation and logistics management interface featuring a node-based canvas, resource encyclopedia, and synthesis flow visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
